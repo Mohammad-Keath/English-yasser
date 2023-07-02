@@ -1,0 +1,23 @@
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    background-color: #190028;
+    border-top: 1px solid ;
+    height: 40px;
+    color: white;
+    align-items: center;
+}
+.icons{
+    height: 30px;
+    padding: 3px;
+
+}
+.footerP {
+    top: auto;
+    bottom: auto;
+    font-size: 15px;
+    font-weight: 600;
+}

@@ -1,0 +1,35 @@
+#navbarOption{
+    display:flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 10px;
+    justify-content:space-between;
+    background-color: #2f184b;
+    color: white;
+    align-items: center;
+    border-bottom: 2px solid;
+}
+#navbarOption a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    padding: 1.5em ;
+    font-weight: 500;
+    /* border-left: 1px solid; */
+}
+#navbarOption a:hover{
+    color: gray;
+}
+
+#logo{
+    
+ height:7em;  
+ 
+}
+body{
+    background-color: #fbfaff;
+}
+#contact{
+    background-color: #4a0a77;
+}

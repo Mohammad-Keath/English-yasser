@@ -1,0 +1,46 @@
+@font-face {
+    font-family:Tangth;
+    src: url('../fonts/Tangthima.ttf');
+}
+@font-face {
+    font-family:yakso;
+    src: url('../fonts/YAKSOMTRIAL.ttf');
+}
+
+#Home{
+    margin-top: 80px;
+    padding-bottom: 60px;
+    /* width: 97.7%; */
+}
+#HomePhoto{
+    height:55vh;
+    width: 100%;
+    background-image: url(../assets/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 30px;
+    
+}
+.photoP,.photoP1{
+    text-shadow: 5px 5px 4px  black;
+    font-size: 40px;
+    font-weight: 800;
+    font-family:yakso;
+    display: flex;
+    /* align-content: center;  */
+    text-align: center;
+    margin: 20px;
+    color: #80c423;
+    
+}
+.photoP1{
+    font-family:Tangth; 
+}
+#welcoming{
+    padding: 10px;
+    /* color: white; */
+}
+.alignleft{
+    text-align: left;
+}
