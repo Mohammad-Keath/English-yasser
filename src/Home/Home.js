@@ -8,7 +8,7 @@ function Home(){
          </div>
          <div id='welcoming'>
             <h2>Welcome to our website!</h2>
-            <p className='alignleft'>
+            <p>
             
 
 We're delighted to have you join us on this exciting language learning journey. Whether you're a beginner, intermediate, or advanced learner, our website is designed to help you improve your English skills in a fun and interactive way.
@@ -21,9 +21,9 @@ Join our vibrant community of English learners from around the world and engage 
 
 Remember, learning a language is a journey, and with regular practice and dedication, you'll be amazed at how quickly you can progress. So, dive in, explore our website, and let's embark on this English learning adventure together!
 
-<p className='alignleft'>Best wishes,</p>
+<p className='alignright'>Best wishes,</p>
 
-<p className='alignleft'>Mr.Yasser</p>
+<p className='alignright'>Mr.Yasser</p>
             </p>
          </div>
         </div>

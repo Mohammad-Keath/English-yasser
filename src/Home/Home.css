@@ -31,16 +31,23 @@
     /* align-content: center;  */
     text-align: center;
     margin: 20px;
-    color: #80c423;
+    color: #70e000;
     
 }
 .photoP1{
     font-family:Tangth; 
 }
 #welcoming{
-    padding: 10px;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
     /* color: white; */
+    border-top: 3px solid;
 }
 .alignleft{
     text-align: left;
+}
+.alignright{
+    text-align: right;
+    padding-right: 50px;
 }
